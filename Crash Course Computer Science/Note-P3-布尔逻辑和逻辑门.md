@@ -23,9 +23,10 @@
 实现：将晶体管输出端接入高电平，而晶体管另一电极接地，则：
 
 当晶体管输入TRUE，电路通，高电平接地，则输出端被短路为低电平。
-![晶体管非门-T](https://cdn.jsdelivr.net/gh/huchangjun-sjtu/picbed/image/20240114153027.png)
+![晶体管非门-T](https://cdn.jsdelivr.net/gh/huchangjun-sjtu/picbed/image/20240114153027.png){ width=50% height=auto }
+
 当晶体管输入FAlSE，电路断，高电平从从输出端输出。
-![晶体管非门-F](https://cdn.jsdelivr.net/gh/huchangjun-sjtu/picbed/image/20240114152803.png)
+![晶体管非门-F](https://cdn.jsdelivr.net/gh/huchangjun-sjtu/picbed/image/20240114152803.png){ width=50% height=auto }
 
 ### AND
 
@@ -38,7 +39,7 @@
 |      0      |      0      |     0      |
 
 实现：串联两个晶体管，则同时“通”，才可输出高电平
-![晶体管与门](https://cdn.jsdelivr.net/gh/huchangjun-sjtu/picbed/image/20240114160759.png)
+![晶体管与门](https://cdn.jsdelivr.net/gh/huchangjun-sjtu/picbed/image/20240114160759.png){ width=50% height=auto }
 
 ### OR
 
@@ -51,11 +52,12 @@
 |      0      |      0      |     0      |
 
 实现：
-![晶体管或门](https://cdn.jsdelivr.net/gh/huchangjun-sjtu/picbed/image/20240114161051.png)
+![晶体管或门](https://cdn.jsdelivr.net/gh/huchangjun-sjtu/picbed/image/20240114161051.png){ width=50% height=auto }
 
 ## 布尔运算的异或操作 XOR
 
-作用：2输入，1输出，对输入值取“异或”：也即仅对两不同输入值，输出真；对两输入值相同，输出假
+作用：2输入，1输出，对输入值取“异或”：也即仅对两不同输入值，输出真；对两输入值相同，输出假。
+
 | **INPUT A** | **INPUT B** | **OUTPUT** |
 | :---------: | :---------: | :--------: |
 |      1      |      1      |     1      |
@@ -64,6 +66,6 @@
 |      0      |      0      |     0      |
 
 实现：如下图所示，综合使用了前文与或非门
-![晶体管异或门](https://cdn.jsdelivr.net/gh/huchangjun-sjtu/picbed/image/20240114161551.png)
+![晶体管异或门](https://cdn.jsdelivr.net/gh/huchangjun-sjtu/picbed/image/20240114161551.png){ width=50% height=auto }
 
 以上章节，大致介绍了如何使用晶体管等类似方式组成逻辑门电路，接下来章节中，将其视作工具使用，不考虑具体硬件实现。

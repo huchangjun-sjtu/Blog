@@ -3,8 +3,10 @@
 ## 最早的计算工具
 
 算盘，储存计算状态，源于数字规模超过心算规模，需要载体，通常包含着进制的概念，记录大型数字。
-![某算盘原理](https://cdn.jsdelivr.net/gh/huchangjun-sjtu/picbed/image/20240112112415.png)
+![某算盘原理](https://cdn.jsdelivr.net/gh/huchangjun-sjtu/picbed/image/20240112112415.png){ width=50% height=auto }
+
 其他计算设备：
+
 * 星盘：船只在海上计算维度
 * 计算尺：计算乘除法
 * 时钟：计算时间，潮汐日出等
