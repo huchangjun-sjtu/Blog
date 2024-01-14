@@ -1,9 +1,6 @@
-# 计算机速成课笔记
-本笔记参考视频来源为[【计算机科学速成课】[40集全/精校] - Crash Course Computer Science】]( https://www.bilibili.com/video/BV1EW411u7th/)
+# P1 计算机早期历史 - Early computing
 
-## P1 计算机早期历史 - Early computing
-
-### 最早的计算工具
+## 最早的计算工具
 
 算盘，储存计算状态，源于数字规模超过心算规模，需要载体，通常包含着进制的概念，记录大型数字。
 ![某算盘原理](https://cdn.jsdelivr.net/gh/huchangjun-sjtu/picbed/image/20240112112415.png)

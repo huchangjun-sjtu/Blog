@@ -1,13 +1,10 @@
-# 计算机速成课笔记
-本笔记参考视频来源为[【计算机科学速成课】[40集全/精校] - Crash Course Computer Science】]( https://www.bilibili.com/video/BV1EW411u7th/)
+# P2 电子计算机 - Electronic Computing
 
-## P2 电子计算机 - Electronic Computing
+## 机电时代
 
-### 机电时代
+## 机械继电器
 
-#### 机械继电器
-
-##### 哈弗马克一号 Harvard Mark I
+### 哈弗马克一号 Harvard Mark I
 
 最大的机电计算机之一，由IBM在1944年为二战同盟国建造，包含有76万5千个组件组成
 
@@ -22,25 +19,25 @@
 
 **PS:** "BUG"一词的由来就是在Harvard Mark II 的故障继电器中发现小飞虫。
 
-### 电子时代
+## 电子时代
 
-#### 热电子管 Thermionic Valve
+## 热电子管 Thermionic Valve
 
 1904年，英国 John Ambrose Fleming 发明热电子管 (Thermionic Valve)，将两个电极装在一真空气密灯泡中，其一可以加热而热电子发射(Thermionic Emission),另一电极在带**正电**时可以吸引电子形成电流。
 但是上述装置无法控制电流通断，当另一电极带负电时，电子无法被吸引越过真空区域，形成电流。
 
-#### 三极管 Triode Vacuum Tubes
+## 三极管 Triode Vacuum Tubes
 
 电流仅能单向流动的部件为“二极管”(Diobe)。
 1906年，美国发明家Lee de Forest 发明了带有控制电极的三极管，可以控制电流通断，每秒可开闭数千次。引领了半个世纪的计算机使用。
 
-##### 巨人一号 Colossus MK 1
+### 巨人一号 Colossus MK 1
 
 使用1600个真空管，在英国用以破解纳粹密码，其认为是第一个可编程的电子计算机。
 编程方式：将几百根电线插入插板。
 虽然具备编程功能，但仍需要针对不同任务进行配置。
 
-##### 电子数值积分计算机 ENIAC
+### 电子数值积分计算机 ENIAC
 
 电子数值积分计算机(Electronic Integrator and Calculator, ENIAC)，在1946年于宾夕法尼亚大学大学建造，**第一个真正意义上的通用可编程电子计算机**。每秒执行5000次十位数加减法。
 
@@ -48,7 +45,7 @@
 
 到1950年代，真空管计算机也达到了极限，需要一种新的电子开关。
 
-### 晶体管时代 Transistor
+## 晶体管时代 Transistor
 
 1947年，贝尔实验室科学家发明晶体管(Transistor),其原理涉及量子力学等复杂理论。
 
