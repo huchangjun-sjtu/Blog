@@ -107,4 +107,3 @@ ALU计算得到的输出应当存储在寄存器A中，会首先存在控制单�
 #### Execute Phase 执行阶段（STORE_A）
 
 ![STORE_A_Execute](https://cdn.jsdelivr.net/gh/huchangjun-sjtu/picbed/image/20240117212907.png)
-
